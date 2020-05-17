@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ArsenalApplication</string>
+    <string name="textTittle">Q1 この人物の名前は？</string>
+    <string name="textTittle2">Q3 このスタジアムの名称は？</string>
+    <string name="textTitle3">Q2 この中で10番をつけたことがない選手は？</string>
+    <string name="answerBtn">解答する</string>
+    <string name="editHint">ここに解答を記入してください</string>
+    <string name="ButtonText5">解答を見る</string>
+</resources>
